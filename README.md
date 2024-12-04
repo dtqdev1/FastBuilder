@@ -5,7 +5,9 @@ FastBuilder is an in-progress Minecraft plugin designed to enhance your bridging
 # Features
 
 Supports up to 25 Islands: FastBuilder allows for a multitude of islands.
+
 Multi Modes: Extra Short, Shorter, Short, Normal, Long, Extra Long.
+
 Identical to McPlayHD: FastBuilder is designed to be identical to McPlayHD.
 
 # In Progress Features
