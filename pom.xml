@@ -47,7 +47,7 @@
         <filtering>true</filtering>
       </resource>
     </resources>
-      <directory>${project.basedir}/server/plugins</directory>
+      <directory>${project.basedir}/builds/</directory>
   </build>
 
   <repositories>
