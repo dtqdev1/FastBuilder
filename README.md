@@ -2,21 +2,18 @@
 
 FastBuilder is an in-progress Minecraft plugin designed to enhance your bridging experience.
 
-##It is prohibited to use this plugin for profit
+# Features
 
-## Features
+Supports up to 25 Islands: FastBuilder allows for a multitude of islands.
+Multi Modes: Extra Short, Shorter, Short, Normal, Long, Extra Long.
+Identical to McPlayHD: FastBuilder is designed to be identical to McPlayHD.
 
-- Supports up to 25 Islands: FastBuilder allows for a multitude of islands.
-- Short Length Maps: The plugin features McPlayHD short length maps.
-- Identical to McPlayHD: FastBuilder is designed to be identical to McPlayHD.
+# In Progress Features
 
-## To-Do List
+Replays: We are making replay system.
 
-- Replay: We plan to integrate a Replay to allow players to record their gameplay and watch it later.
-- Cosmetics: Future updates will include cosmetics.
-- More Accurate Timer: We are working on improving the timer's accuracy to provide a more precise and fair gameplay experience.
+# Credits
 
-Stay tuned for more updates as we continue to improve and expand FastBuilder!
+This plugin made by Njdge and his team. I am editing their plugin.
 
-[Discord](https://discord.gg/CXX3aQ8yWz)
-[Youtube](https://www.youtube.com/watch?v=SKroRhilXE8)
+Original project: https://github.com/Njdgee/FastBuilder
